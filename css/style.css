@@ -3,7 +3,12 @@
     height: 100%;
     object-fit: cover;
     transition: 1s;
-    cursor: zoom-in;
+}
+.affiche{
+    max-width: 500px;
+    height: 50%;
+    object-fit: cover;
+    transition: 1s;
 }
 
 /* popup */
